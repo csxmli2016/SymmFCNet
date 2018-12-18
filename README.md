@@ -11,6 +11,12 @@ Download the pre-trained model with the following url and put it into ./checkpoi
 - [BaiduNetDisk](https://pan.baidu.com/s/1V3DglQr6Wx8idMgYUQBhuw)
 - [GoogleDrive](https://drive.google.com/open?id=1uSjcNHvcI_mcbei_oOhs8cnDqpuw6Gnh)
 
+# Testing
+
+```bash
+th test.lua
+```
+
 # Requirements and Dependencies
 
 - [Torch](https://github.com/torch/distro)
