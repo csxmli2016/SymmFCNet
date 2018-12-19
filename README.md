@@ -20,12 +20,12 @@ Download the pre-trained model with the following url and put it into ./checkpoi
 th test.lua
 ```
 ## Completion results
- <table align='center' width=90%>
+ <table  style="float:center" width=90%>
  <tr>
   <th width=18% ><B>Type</B></th><th><B>Input</B></th><th><B>Ours</B></th><th><B>Ground-truth</B></th>
  </tr>
  <tr>
-  <td >
+  <td style="text-align:center">
    <B>Regular Mask</B>
   </td>
   <td>
