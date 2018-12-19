@@ -19,7 +19,54 @@ Download the pre-trained model with the following url and put it into ./checkpoi
 ```bash
 th test.lua
 ```
-
+## Completion results
+ <table style="float:center">
+ <tr>
+  <th><B>Type</B></th><th><B>Input</B></th><th><B>Ours</B></th><th><B>Ground-truth</B></th>
+ </tr>
+ <tr>
+  <td>
+   <p>Regular Mask</p>
+  </td>
+  <td>
+  <img src='./Imgs/Images/10_i.png'>
+  </td>
+  <td>
+   <img src='./Imgs/Images/10_o.png'>
+  </td>
+  <td>
+   <img src='./Imgs/Images/10_g.png'>
+  </td>
+  </tr>
+  <tr>
+  <td>
+   <p>Irregular Mask</p>
+  </td>
+  <td>
+  <img src='./Imgs/Images/3_i.png'>
+  </td>
+  <td>
+   <img src='./Imgs/Images/3_o.png'>
+  </td>
+  <td>
+   <img src='./Imgs/Images/3_g.png'>
+  </td>
+  </tr>
+ <tr>
+  <td>
+   <p>Real Image</p>
+  </td>
+  <td>
+  <img src='./Imgs/Images/6_i.png'>
+  </td>
+  <td>
+   <img src='./Imgs/Images/6_o.png'>
+  </td>
+  <td>
+   <img src='./Imgs/Images/6_g.png'>
+  </td>
+  </tr>
+ </table>
 # Requirements and Dependencies
 
 - [Torch](https://github.com/torch/distro)
