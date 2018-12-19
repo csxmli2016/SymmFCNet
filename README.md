@@ -22,7 +22,7 @@ th test.lua
 ## Completion results
  <table  style="float:center" width=90%>
  <tr>
-  <th width=18% ><B>Type</B></th><th><B>Input</B></th><th><B>Ours</B></th><th><B>Ground-truth</B></th>
+  <th width=18% ><B>Type</B></th><th><B>Input</B></th><th><B>SymmFCNet</B></th><th><B>Ground-truth</B></th>
  </tr>
  <tr>
   <th>
