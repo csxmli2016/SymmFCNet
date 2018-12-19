@@ -25,7 +25,7 @@ th test.lua
   <th width=18% ><B>Type</B></th><th><B>Input</B></th><th><B>Ours</B></th><th><B>Ground-truth</B></th>
  </tr>
  <tr>
-  <th style="text-align:center">
+  <th>
    <B>Regular Mask</B>
   </th>
   <td>
@@ -39,9 +39,9 @@ th test.lua
   </td>
   </tr>
   <tr>
-  <td >
+  <th >
    <B>Irregular Mask</B>
-  </td>
+  </th>
   <td>
   <img src='./Imgs/Images/3_i.png'>
   </td>
@@ -53,9 +53,9 @@ th test.lua
   </td>
   </tr>
  <tr>
-  <td>
+  <th>
    <B>Real Image</B>
-  </td>
+  </th>
   <td>
   <img src='./Imgs/Images/6_i.png'>
   </td>
