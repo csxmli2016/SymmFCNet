@@ -22,11 +22,11 @@ th test.lua
 ## Completion results
  <table style="float:center" width=90%>
  <tr>
-  <th width=20% align='center'><B>Type</B></th><th><B>Input</B></th><th><B>Ours</B></th><th><B>Ground-truth</B></th>
+  <th width=20% ><B>Type</B></th><th><B>Input</B></th><th><B>Ours</B></th><th><B>Ground-truth</B></th>
  </tr>
  <tr>
-  <td>
-   <p>Regular Mask</p>
+  <td style="text-align: center;">
+   <B>Regular Mask</B>
   </td>
   <td>
   <img src='./Imgs/Images/10_i.png'>
@@ -39,8 +39,8 @@ th test.lua
   </td>
   </tr>
   <tr>
-  <td>
-   <p>Irregular Mask</p>
+  <td style="text-align: center;">
+   <B>Irregular Mask</B>
   </td>
   <td>
   <img src='./Imgs/Images/3_i.png'>
@@ -53,8 +53,8 @@ th test.lua
   </td>
   </tr>
  <tr>
-  <td>
-   <p>Real Image</p>
+  <td style="text-align: center;">
+   <B>Real Image</B>
   </td>
   <td>
   <img src='./Imgs/Images/6_i.png'>
