@@ -25,9 +25,9 @@ th test.lua
   <th width=18% ><B>Type</B></th><th><B>Input</B></th><th><B>Ours</B></th><th><B>Ground-truth</B></th>
  </tr>
  <tr>
-  <td style="text-align:center">
+  <th style="text-align:center">
    <B>Regular Mask</B>
-  </td>
+  </th>
   <td>
   <img src='./Imgs/Images/10_i.png'>
   </td>
