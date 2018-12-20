@@ -1,5 +1,5 @@
 # [SymmFCNet](#)
- Torch implementation for [Learning Symmetry Consistent Deep CNNs for Face Completion](#)
+ Torch implementation for [Learning Symmetry Consistent Deep CNNs for Face Completion](https://arxiv.org/abs/1804.04829)
 
 # SymmFCNet framework
 Overview of our SymmFCNet. <B>Red</B>, <B>green</B> and <B>blue</B> lines represent the pixel-wise correspondence between the input and the flip image. 
