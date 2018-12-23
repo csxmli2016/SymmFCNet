@@ -67,6 +67,7 @@ th test.lua
   </td>
   </tr>
  </table>
+ 
 # Requirements and Dependencies
 
 - [Torch](https://github.com/torch/distro)
