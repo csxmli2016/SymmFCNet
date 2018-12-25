@@ -73,3 +73,15 @@ th test.lua
 - [Torch](https://github.com/torch/distro)
 - [Cuda](https://developer.nvidia.com/cuda-toolkit-archive)-8.0
 - [Stn](https://github.com/qassemoquab/stnbhwd)
+
+# Citation
+
+```
+@article{li2018learning,
+  title={Learning Symmetry Consistent Deep CNNs for Face Completion},
+  author={Li, Xiaoming and Liu, Ming and Zhu, Jieru and Zuo, Wangmeng and Wang, Meng and Hu, Guosheng and Zhang, Lei},
+  journal={arXiv preprint arXiv:1812.07741},
+  year={2018}
+}
+
+```
