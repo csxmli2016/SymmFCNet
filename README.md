@@ -5,7 +5,7 @@
  <B>`(New)`</B>Pytorch Version can be found [here](https://github.com/csxmli2016/SymmFCNet_pytorch).
 ```diff
 + Please note that there are some different implementations between torch and pytorch version. 
-+ Please refer to pytorch version.
++ Please refer to [pytorch version](https://github.com/csxmli2016/SymmFCNet_pytorch).
 ```
 # SymmFCNet framework
 Overview of our SymmFCNet. <B>Red</B>, <B>green</B> and <B>blue</B> lines represent the pixel-wise correspondence between the input and the flip image. 
