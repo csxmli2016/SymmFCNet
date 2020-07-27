@@ -28,48 +28,51 @@ th test.lua
 ## Completion results
  <table  style="float:center" width=90%>
  <tr>
-  <th><B>Input</B></th><th><B>Results</B></th>
+  <th><B>Type</B></th><th><B>Input</B></th><th><B>Results</B></th><th><B>Ground-Truth</B></th>
  </tr>
  <tr>
+  <th>
+   <B>Regular Mask</B>
+  </th>
   <td>
-  <img src='./Imgs/RealLR/n000056_0060_01.png'>
+  <img src='./Imgs/Images/10_i.png'>
   </td>
   <td>
-   <img src='./Imgs/ShowResults/n000056_0060_01.png'>
-  </td>
- </tr>
- <tr>
-  <td>
-  <img src='./Imgs/RealLR/n000067_0228_01.png'>
+   <img src='./Imgs/Images/10_o.png'>
   </td>
   <td>
-   <img src='./Imgs/ShowResults/n000067_0228_01.png'>
+   <img src='./Imgs/Images/10_g.png'>
   </td>
  </tr>
  <tr>
+  <th>
+   <B>Irregular Mask</B>
+  </th>
   <td>
-  <img src='./Imgs/RealLR/n000184_0094_01.png'>
+  <img src='./Imgs/Images/3_i.png'>
   </td>
   <td>
-   <img src='./Imgs/ShowResults/n000184_0094_01.png'>
-  </td>
- </tr>
- <tr>
-  <td>
-  <img src='./Imgs/RealLR/n000262_0097_01.png'>
+   <img src='./Imgs/Images/3_o.png'>
   </td>
   <td>
-   <img src='./Imgs/ShowResults/n000262_0097_01.png'>
+   <img src='./Imgs/Images/3_g.png'>
   </td>
  </tr>
  <tr>
+  <th>
+   <B>Real Occlusion</B>
+  </th>
   <td>
-  <img src='./Imgs/RealLR/n000241_0132_04.png'>
+  <img src='./Imgs/Images/6_i.png'>
   </td>
   <td>
-   <img src='./Imgs/ShowResults/n000241_0132_04.png'>
+   <img src='./Imgs/Images/6_o.png'>
+  </td>
+  <td>
+   <img src='./Imgs/Images/6_g.png'>
   </td>
  </tr>
+ 
   
  </table>
  
